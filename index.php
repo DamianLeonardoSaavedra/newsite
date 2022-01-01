@@ -23,6 +23,7 @@
     ?> 
 
     <button type="button" class="btn btn-success">CLICK ME!</button>
+    <a href="https://www.heroku.com" class="btn btn-danger">Heroku.com</a>
 
     <?php require 'includes/footer.php'; ?>
 
